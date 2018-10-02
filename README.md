@@ -1,7 +1,7 @@
 # hello-world
 
-## tutorial repo for testing github admin branching, commits, pull requestes ...
+tutorial repo for testing github admin branching, commits, pull requests ...
 
-I like python, javascript, html5 apps
+I like python, flask, javascript, react, redux, html5 apps
 
 
